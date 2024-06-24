@@ -1,0 +1,27 @@
+{"level":"error","ts":"2024-03-23 09:41:44.426","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:41:52.833","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:41:56.175","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:42:09.465","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:43:20.309","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:44:17.930","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:46:29.652","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 09:47:11.332","caller":"sys/sys_users.go:229","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-23 21:00:48.143","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:00:52.735","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:06:20.740","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:06:44.313","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:07:32.074","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:08:30.997","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:10:38.042","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:13:01.746","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-23 21:17:19.011","caller":"sys/sys_roles.go:140","msg":"查询用户: 11 失败"}
+{"level":"error","ts":"2024-03-24 18:31:02.994","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-24 18:33:45.964","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-24 18:35:22.415","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-24 18:36:56.616","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-24 18:37:35.732","caller":"sys/sys_roles.go:140","msg":"查询用户: 1 失败"}
+{"level":"error","ts":"2024-03-28 14:51:19.394","caller":"sys/sys_roles.go:140","msg":"查询用户: 13 失败"}
+{"level":"error","ts":"2024-03-28 14:51:24.697","caller":"sys/sys_roles.go:140","msg":"查询用户: [object Object] 失败"}
+{"level":"error","ts":"2024-03-28 14:54:01.276","caller":"sys/sys_roles.go:140","msg":"查询用户: [object Object] 失败"}
+{"level":"error","ts":"2024-03-28 21:36:50.782","caller":"sys/sys_cashbin.go:121","msg":"字符串加载模型失败!","error":"open ./conf/rbac_models.conf: The system cannot find the file specified."}
+{"level":"error","ts":"2024-03-28 21:45:02.536","caller":"sys/sys_cashbin.go:121","msg":"字符串加载模型失败!","error":"open ./conf/rbac_models.conf: The system cannot find the file specified."}
