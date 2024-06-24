@@ -2,7 +2,7 @@
 
 ## 介绍
 
-用于学习监督
+跟着b站视频做的项目 地址:https://www.bilibili.com/video/BV1eF4m137ay?vd_source=5355451375e90ea63453597279646a58
 
 ### 2024
 
