@@ -3,7 +3,7 @@
 ## 介绍
 
 跟着b站视频做的项目 地址:https://www.bilibili.com/video/BV1eF4m137ay?vd_source=5355451375e90ea63453597279646a58  
-视频是我的同学上传到B站上的,这是他的github主页地址：https://github.com/ax020913
+视频是我的同学上传到B站上的,这是他的主页地址：https://gitee.com/ax020913
 ### 2024
 
 #### 3.12 重新搭建一个 `vite` 前端的项目把登录配合数据库和验证码整合进来
